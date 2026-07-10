@@ -1,6 +1,6 @@
 # Olá! Eu sou o Leonardo Laranjeira 👋
 
-💻 Atualmente estou documentando minha jornada de estudos em Desenvolvimento de Software.
+💻 Atualmente estou documentando minha jornada de estudos do Zero ao Desenvolvimento de Software.
 
 Aqui você encontrará projetos, desafios, anotações e aprendizados registrados durante minha evolução, começando pelos fundamentos de **JavaScript** e **Node.js**.
 
