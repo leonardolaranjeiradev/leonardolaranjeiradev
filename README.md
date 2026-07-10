@@ -39,17 +39,4 @@ Aqui você encontrará projetos, desafios, anotações e aprendizados registrado
 - 📈 Evolução nos estudos de JavaScript e Node.js
 - 📝 Registro da minha jornada na área de tecnologia
 
----
 
-## 🎯 Meta atual
-
-- ✅ Construir uma base sólida em JavaScript
-- ✅ Aprender Node.js e Desenvolvimento Backend
-- ✅ Criar projetos reais para aplicar o conhecimento
-- ✅ Compartilhar minha evolução no GitHub e LinkedIn
-
----
-
-## 🚀 Objetivo
-
-> Me tornar um **Desenvolvedor Full Stack**, construindo projetos cada vez mais completos e compartilhando toda a minha evolução por aqui.
