@@ -1,24 +1,51 @@
+# Olá! Eu sou o Leonardo Laranjeira 👋
 
+Atualmente estou iniciando uma nova jornada na área de desenvolvimento, estudando desde os fundamentos e documentando cada etapa do aprendizado.
 
-### Olá! Eu sou o Leonardo Laranjeira 👋
+Meu objetivo é registrar minha evolução através de projetos, anotações, desafios e aprendizados compartilhados aqui no GitHub e também no LinkedIn. A ideia é mostrar o processo real de crescimento, desde a base até níveis mais avançados de desenvolvimento.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laranjeiraleonardo/)
+📌 Se quiser acompanhar essa jornada de perto, compartilho regularmente minha evolução no LinkedIn:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosantoslaranjeira/)
 
-![Laranjeira GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardolaranjeiradev&show_icons=true&theme=highcontrast)
+[![ps://img.shields.io/badge/Instagramfor-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/laranjeiraleonardo/)
 
+---
 
-## Tecnologias que uso no meu dia 
+## 🚀 Tecnologias que estou estudando
 
-<div style="display: inline_block"> <br/>
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="Automação" src="https://img.shields.io/badge/Automação-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" />
-    <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-    <img align="center" alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-    <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  
-</div><br/>
+<div style="display: inline_block"><br/>
 
+<img align="center" alt="JavaScript" src="https://img.shieldsbadge&logo=javascript&logoColor=black
 
-Apaixonado por tecnologia, em busca de me aperfeiçoar para passar meus conhecimentos para pessoas que iniciam nesse mundo tec, assim como eu.
+<img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style==white
 
+<img align="center" alt="Git" src="https://imgfor-the-badge&logo=git&logoColor=white
 
+<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=nter" alt="MySQL" src="https://img.shieldsbadge&logo=mysql&logoColor=white
+
+</div>
+
+---
+
+## 📚 O que você vai encontrar aqui
+
+✅ Resumos e anotações dos estudos
+
+✅ Projetos desenvolvidos durante a jornada
+
+✅ Exercícios e desafios práticos
+
+✅ Evolução dos conhecimentos em JavaScript, Node.js, Banco de Dados e Futuramente React.js
+
+✅ Aprendizados, erros e soluções encontradas no caminho
+
+---
+
+## 🎯 Objetivo
+
+Estou construindo uma base sólida em desenvolvimento de software, começando pelos fundamentos de JavaScript e Node.js.
+
+No futuro, pretendo expandir meus conhecimentos para o desenvolvimento frontend e backend, com o objetivo de me tornar um Desenvolvedor Full Stack.
+
+Enquanto esse objetivo não chega, este perfil servirá como um registro público da minha evolução e dedicação aos estudos.
