@@ -1,37 +1,48 @@
 # Olá! Eu sou o Leonardo Laranjeira 👋
 
-Atualmente estou em uma jornada de transição e aprendizado na área de desenvolvimento.
+Atualmente estou documentando minha jornada de estudos em desenvolvimento de software.
 
-Decidi documentar toda a minha evolução, desde os fundamentos até projetos mais avançados, compartilhando estudos, desafios e conquistas aqui no GitHub e também no LinkedIn.
+Aqui você encontrará projetos, desafios, anotações e aprendizados registrados durante minha evolução, começando pelos fundamentos de JavaScript e Node.js.
 
-📌 Se quiser acompanhar minha evolução de perto, confira meu LinkedIn:
+🎯 Meu objetivo é construir uma base sólida em desenvolvimento e, no futuro, seguir o caminho para me tornar um Desenvolvedor Full Stack.
 
-[![LinkedIn](https://img.shields.io/n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/leonardosantoslaranjeira/)
+📌 Acompanhe minha jornada:
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/laranjeiraleonardo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosantoslaranjeiraam](https://img.shields.io/badge/Instagram-E4405F?style&logo=instagram&logoColor=white](https://www.instagram.com/laranjeiraleonardo/)
 
 ---
 
 ## 🚀 Atualmente estudando
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<img align="center" alt="JavaScript" src="https://img.shields.io/badgeo=javascript&logoColor=black
 
-https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+<img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style==white
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+<img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColortHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&lt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-thediv>
 
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+---
 
-https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+## 📚 O que você vai encontrar aqui
 
-</div>
+- Anotações e resumos de estudo
+- Exercícios práticos
+- Projetos pessoais
+- Desafios de programação
+- Evolução dos estudos em JavaScript e Node.js
+- Registro da minha jornada na área de tecnologia
 
-<br/>
+---
 
-## 🎯 Objetivo
+## 🎯 Meta atual
 
-Construir uma base sólida em desenvolvimento de software, estudando desde os fundamentos de JavaScript e Node.js.
+✅ Construir uma base sólida em JavaScript
 
-No futuro, pretendo expandir meus conhecimentos para frontend e backend, seguindo o caminho para me tornar um Desenvolvedor Full Stack.
+✅ Aprender Node.js e desenvolvimento Backend
+
+✅ Criar projetos reais para aplicar o conhecimento
+
+✅ Compartilhar a evolução no GitHub e LinkedIn
+
+🚀 Futuro objetivo: me tornar um Desenvolvedor Full Stack
