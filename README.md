@@ -106,26 +106,6 @@ Desenvolvedor Full Stack
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardolaranjeiradev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardolaranjeiradev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardolaranjeiradev&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌎 Acompanhe minha evolução
 
 Além deste GitHub, compartilho minha evolução, aprendizados e projetos através do LinkedIn.
